@@ -4,4 +4,4 @@ This repo contains all documentations related to Frontend development architetur
 
 ## Table of contents
 
-1. [CSS writing style guidelines.](/css/css-style-guide.css)
+1. [CSS writing style guidelines.](css/css-style-guide.css)
